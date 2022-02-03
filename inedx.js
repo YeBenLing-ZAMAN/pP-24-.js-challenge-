@@ -1,1 +1,0 @@
-// we are ready to take js challenge
